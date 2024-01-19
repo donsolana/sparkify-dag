@@ -12,8 +12,8 @@ This project contains a pipeline for a streaming platform. It is an automated ve
 
 I. ***helper files*** 
 
-> a. *Init file*: This is part of airflow's standard structure when using helper scripts, and allows the script to be called upon in the dag definition.
-> b. *SQL queries*: This document contains SQL insert statements for the Redshift warehouse.
+   a. *Init file*: This is part of airflow's standard structure when using helper scripts, and allows the script to be called upon in the dag definition.
+   b. *SQL queries*: This document contains SQL insert statements for the Redshift warehouse.
 
 II. ***Operators***: Operators are re-useable elements in the dags, they are designed as Python classes that inherit properties of a base Airflow class.
 
