@@ -4,7 +4,7 @@ Data pipeline for music streaming platform with Apache airflow
 
 ## Introduction 
 
-This project contains a pipeline for a streaming platform. It is an automated version of the [Red-Hot](https://github.com/donsolana/Red-Hot) project in another repository in this account. 
+This project contains a pipeline for a streaming platform. It is an automated version of the [Red-Hot](https://github.com/donsolana/Red-Hot) project in another repository on this account. 
 
 ## Structure
 #### 1. Dag: Contains the main **Directed Acyclic Graph(DAG)** definition.
